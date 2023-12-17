@@ -1,0 +1,25 @@
+var class_transaction =
+[
+    [ "Transaction", "class_transaction.html#ab47005b855d38bc324bb79fd023baa13", null ],
+    [ "Transaction", "class_transaction.html#aa1b0cfdf4c3ef95c03892fc2961410f9", null ],
+    [ "Transaction", "class_transaction.html#a804b4731b6d55871a3ee70a5d66a5870", null ],
+    [ "~Transaction", "class_transaction.html#a362b0d2524d0c799165190517192dca9", null ],
+    [ "amount", "class_transaction.html#a0621f4fdf66207ea9ebc464baad8944d", null ],
+    [ "balance", "class_transaction.html#a0b88ded6fbbe0d9aa7f76cef68cf4911", null ],
+    [ "categoryID", "class_transaction.html#ad974fca50ae74e84c9616e6f594b4588", null ],
+    [ "date", "class_transaction.html#ae6b1181c7906798347a9c7741741c0aa", null ],
+    [ "description", "class_transaction.html#a303ddef36b27b94fed507b7913803b02", null ],
+    [ "isDeposit", "class_transaction.html#a339816a04db4641d06cbe8b45c9f806e", null ],
+    [ "setAmount", "class_transaction.html#aa840a5c9a1083346186c9a1c6697e319", null ],
+    [ "setBalance", "class_transaction.html#a3855343d74b0ee2aa07bc0da5080006d", null ],
+    [ "setCategoryID", "class_transaction.html#a1cc59ab4a07ce1224903dafce41933de", null ],
+    [ "setDate", "class_transaction.html#aa9969073a9680404af54dd5a512fff2b", null ],
+    [ "setDescription", "class_transaction.html#aed5fa326361d120eb00a4a617c0550be", null ],
+    [ "setSubcategoryID", "class_transaction.html#a08df10911a150baaef483cb45395e9eb", null ],
+    [ "setTransactionID", "class_transaction.html#a84896bb49f4c05a4506e6e7d2993c086", null ],
+    [ "setUserID", "class_transaction.html#a1251c7f703f7f25ae1974ca2bea7fdc4", null ],
+    [ "subcategoryID", "class_transaction.html#a6bfbd156034135c6d9077018f702472d", null ],
+    [ "toString", "class_transaction.html#a3cea9bdb81fee039da9d94d47910f5f5", null ],
+    [ "transactionID", "class_transaction.html#a51c0fc7136e99f31362cf553838c110c", null ],
+    [ "userID", "class_transaction.html#a3be779b5414493d873a7c38201b71db0", null ]
+];
